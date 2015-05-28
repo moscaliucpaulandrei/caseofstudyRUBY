@@ -1,0 +1,2 @@
+# caseofstudyRUBY
+RUBY LANG ~ CASE OF STUDY
